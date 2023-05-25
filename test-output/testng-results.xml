@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T10:25:53 BST" name="Default suite" finished-at="2023-05-23T10:25:53 BST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T10:25:53 BST" name="Default test" finished-at="2023-05-23T10:25:53 BST" duration-ms="34">
+      <class name="testngDemo.Allannotationsdemo">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="beforesuite" finished-at="2023-05-23T10:25:53 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="beforetest" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="beforeclass" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="beforemethod" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="f()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="f" finished-at="2023-05-23T10:25:53 BST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="aftermethod" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="f1()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="f1" finished-at="2023-05-23T10:25:53 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="beforemethod" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="aftermethod" finished-at="2023-05-23T10:25:53 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="f2()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="f2" finished-at="2023-05-23T10:25:53 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="beforemethod" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="aftermethod" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="afterclass" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="aftertest" finished-at="2023-05-23T10:25:53 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:testngDemo.Allannotationsdemo@7817fd62]" started-at="2023-05-23T10:25:53 BST" name="aftersuite" finished-at="2023-05-23T10:25:53 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testngDemo.Allannotationsdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
